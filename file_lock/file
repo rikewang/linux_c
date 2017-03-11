@@ -1,0 +1,12 @@
+hello
+0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.88.121 server1.example.com server1
+192.168.88.122 server2.example.com server2 www.wxl-dede.com bbs1.wxl.com
+192.168.88.123 server3.example.com server3
+192.168.88.124 server4.example.com server4
+192.168.88.125 server5.example.com docker
+192.168.88.126 docker2.example.com docker2
+192.168.88.127 server7.example.com server7
+192.168.88.128 server8.example.com server8
+192.168.88.121 wxl-dede
